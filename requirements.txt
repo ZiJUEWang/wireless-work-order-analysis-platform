@@ -1,0 +1,4 @@
+streamlit
+pandas
+openpyxl
+xlrd==1.2.0  # 若需要读取.xls文件则加，否则可删
